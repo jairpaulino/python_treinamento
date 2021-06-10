@@ -5,4 +5,4 @@
 3. Exercício 03: Estruturas de repetiação
 4. Exercício 04: Tuplas, listas, dicionários, conjuntos e matrizes
 5. Exercício 05: Funções
-6. Exercício 06:
+6. Exercício 06: Módulos úteis
