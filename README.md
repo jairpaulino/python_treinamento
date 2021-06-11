@@ -8,4 +8,4 @@
 6. Exercício 06: Módulos úteis
 7. Exercício 07: Tratamento de erros e exceções
 8. Exercício 08: Manipulação de arquivos de texto
-9. Exercício 08: Expressões regulares
+9. Exercício 09: Expressões regulares
