@@ -6,3 +6,6 @@
 4. Exercício 04: Tuplas, listas, dicionários, conjuntos e matrizes
 5. Exercício 05: Funções
 6. Exercício 06: Módulos úteis
+7. Exercício 07: Tratamento de erros e exceções
+8. Exercício 08: Manipulação de arquivos de texto
+9. Exercício 08: Expressões regulares
