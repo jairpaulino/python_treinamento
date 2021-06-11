@@ -1,12 +1,14 @@
-## Exercícios do curso Programação em Python (IAExpert).
+## Cursos e exercícios:
 
-1. Exercício 01: Operações matemáticas e manipulação de strings
-2. Exercício 02: Operadores lógicos e condicionais
-3. Exercício 03: Estruturas de repetiação
-4. Exercício 04: Tuplas, listas, dicionários, conjuntos e matrizes
-5. Exercício 05: Funções
-6. Exercício 06: Módulos úteis
-7. Exercício 07: Tratamento de erros e exceções
-8. Exercício 08: Manipulação de arquivos de texto
-9. Exercício 09: Expressões regulares
-10. Exercício 10: Orientação a objetos
+### Programação em Python : Guia Inicial (IAExpert)
+
+1. Operações matemáticas e manipulação de strings
+2. Operadores lógicos e condicionais
+3. Estruturas de repetiação
+4. Tuplas, listas, dicionários, conjuntos e matrizes
+5. Funções
+6. Módulos úteis
+7. Tratamento de erros e exceções
+8. Manipulação de arquivos de texto
+9. Expressões regulares
+10. Orientação a objetos
