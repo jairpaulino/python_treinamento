@@ -1,6 +1,6 @@
 ## Cursos e exercícios:
 
-### Programação em Python : Guia Inicial (IAExpert)
+### Programação em Python: Guia Inicial (IAExpert)
 
 1. Operações matemáticas e manipulação de strings
 2. Operadores lógicos e condicionais
@@ -15,5 +15,7 @@
 
 ### Reconhecimento de Faces com OpenCV (IAExpert)
 
-1. Uso de arquivos haar
+1. Uso de arquivos haar (haar cascade)
 2. Detecção de faces 
+3. Parametricação de classificadores
+4. Detecção de olhos
