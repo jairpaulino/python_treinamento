@@ -12,3 +12,8 @@
 8. Manipulação de arquivos de texto
 9. Expressões regulares
 10. Orientação a objetos
+
+### Reconhecimento de Faces com OpenCV (IAExpert)
+
+1. Uso de arquivos haar
+2. Detecção de faces 
