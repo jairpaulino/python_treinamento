@@ -20,3 +20,4 @@
 3. Parametricação de classificadores
 4. Detecção de olhos
 5. Detecção de faces via webcam
+6. Detecção de objetos (faces de gatos, carros e relógios)
