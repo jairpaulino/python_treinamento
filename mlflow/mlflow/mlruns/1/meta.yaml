@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/jairp/Documents/GitHub/python_treinamento/mlflow/mlflow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: house-prices-script
